@@ -67,7 +67,7 @@ const firstPage =
           <body>
             <h1> LOL GENERATOR </h1>
               <p>Paste your answers to the following questions at the end of this URL</p>
-              <p>Name / Age / Fancy a meme? yes or no</p>
+              <p>/Name / Age / Fancy a meme? yes or no</p>
               <div class="tenor-gif-embed" data-postid="4936718" data-share-method="host" data-width="100%" data-aspect-ratio="1.3555555555555556"><a href="https://tenor.com/view/michael-scott-laughter-steve-carell-lol-laughing-gif-4936718">Michael Scott Laughter GIF</a> from <a href="https://tenor.com/search/michaelscott-gifs">Michaelscott GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
           </body>
           </html>
