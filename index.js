@@ -298,7 +298,7 @@ case jokes.joke6:
  }
 }
 
-app.get('/joke', urlRequest)
-app.get('/joke/:name/:age/:meme/', onRequest)
+app.get('/', urlRequest)
+app.get('/:name/:age/:meme/', onRequest)
 
 
