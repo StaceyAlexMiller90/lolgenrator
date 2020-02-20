@@ -49,7 +49,7 @@ const firstPage =
           `<html>
           <head>
               <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
-               <title>My favorite movie</title>
+               <title>LOLs</title>
                <style>
                body {
                  background-color: #0f0e17;
