@@ -108,7 +108,7 @@ const render = (joke, name) => {
       <body>
         <h1>Wait for it.... </h1>
           <div class ="container">
-            <marquee direction="up" width="1000" height="1000" scrollamount="20">${joke}</marquee>
+            <marquee direction="up" width="1000" height="1000" scrollamount="10">${joke}</marquee>
           </div>
       </body>
       </html>
